@@ -26,7 +26,6 @@ I'm a **Data Engineer** with a passion for building robust data pipelines, autom
 ### 🤝 Let’s Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dina-samir1/)
-- 📬 Email: dina.samir.data@gmail.com  
 - 📝 [My Portfolio & Projects](https://github.com/Dina-samir?tab=repositories)
 
 ---
