@@ -19,7 +19,7 @@ I'm a **Data Engineer** with a passion for building robust data pipelines, autom
 - 🌐 System Design and Distributed Architectures
 - 🧰 Advanced Spark Optimization & Performance Tuning
 - ⛓️ Real-time Data Streaming with Kafka
-- ☁️ Cloud Data Engineering with **Azure** and **GCP**
+- ☁️ Cloud Data Engineering with **Azure** and **AWS**
 
 ---
 
